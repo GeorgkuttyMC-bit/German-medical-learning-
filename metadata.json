@@ -1,0 +1,6 @@
+{
+  "name": "German Medical Terminology Tutorial & Quiz Suite",
+  "description": "Comprehensive interactive learning tutorial and chapter quizzes based on Hugo Lang's classic historical German-English Dictionary of Terms Used in Medicine and the Allied Sciences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
